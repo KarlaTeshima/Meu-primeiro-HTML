@@ -1,2 +1,4 @@
 # Meu primeiro HTML
- Primeiro repositório do curso de Git e GitHub
+Meu Primeiro repositório 
+
+Curso de Git e GitHub do canal Curso em Vídeo no YouTube. 
